@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href= "https://github.com/Xiaoyu-Lu"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://https://www.linkedin.com/in/lu-xiaoyu/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/lu-xiaoyu/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 </p>
 
 <p  align="center">
