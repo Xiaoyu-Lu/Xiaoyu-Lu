@@ -38,3 +38,20 @@
 <a href="https://github.com/Xiaoyu-Lu/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Lu&repo=GSoC_2020&title_color=ffffff&text_color=c9cacc&icon_color=FF7F50&bg_color=1d1f21" />
 </a>
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/Xiaoyu-Lu"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://https://www.linkedin.com/in/lu-xiaoyu/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+</p>
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=xiaoyu-lu.xiaoyu-lu" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xiaoyu-lu" alt="visitor badge"/>       
+</p>
+
+</p>
+
