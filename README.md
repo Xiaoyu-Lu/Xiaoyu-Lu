@@ -9,3 +9,4 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I like rock climbing but now I am stucked at home.
 
+<img src="https://github-readme-stats.vercel.app/api?username=Xiaoyu-Lu&&show_icons=true&title_color=ffffff&icon_color=FF7F50&text_color=FFA500&bg_color=151515">
