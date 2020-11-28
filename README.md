@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Xiaoyu-Lu/Xiaoyu-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hallo Willkommen 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: loewilu@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I like rock climbing but now I am stucked at home.
--->
+
