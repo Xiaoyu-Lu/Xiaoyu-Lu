@@ -1,4 +1,4 @@
-### Willkommen, ich bin Xiaoyu Lu. 👋
+## Willkommen, ich bin Xiaoyu Lu. 👋
 
 - 🔭 I’m currently studying at Brandeis Univertiy.
 - 🌱 I’m currently learning Information Extraction, Information Retrieval, etc.
@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Tools-Scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FFA500)
