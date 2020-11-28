@@ -1,6 +1,4 @@
-### Hallo Willkommen 👋
-
-Here are some ideas to get you started:
+### Willkommen, ich bin Xiaoyu Lu. 👋
 
 - 🔭 I’m currently studying at Brandeis Univertiy.
 - 🌱 I’m currently learning Information Extraction, Informationn Retrieval, etc.
