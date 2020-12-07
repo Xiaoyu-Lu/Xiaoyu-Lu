@@ -40,8 +40,8 @@
 </a>
 
 <hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+<!--<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>-->
 
 <p align="center">
 <a href= "https://github.com/Xiaoyu-Lu"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
