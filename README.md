@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on making an app.
 - 🤔 I’m looking for help with 3D animation (just for fun).
 - 💬 Ask me about Machine Learning/Deep Learning/Natural Language Processing.
-- 📫 How to reach me: loewilu@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I like rock climbing, but now I am stuck at home.
 
