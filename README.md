@@ -28,12 +28,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoyu-Lu&hide=java,html&title_color=ffffff&text_color=FFA500&icon_color=FF7F50&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Xiaoyu-Lu/Xiaoyu-Lu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiaoyu-Lu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFA500&icon_color=FF7F50&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiaoyu-Lu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFA500&icon_color=FF7F50&bg_color=1d1f21" alt="Xiaoyu's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Xiaoyu-Lu/Red-Cube-Escape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Lu&repo=Red-Cube-Escape&title_color=ffffff&text_color=c9cacc&icon_color=FF7F50&bg_color=1d1f21" />
 </a>
+
+<a href="https://github.com/Xiaoyu-Lu/ElasticSearch_WAPO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Lu&repo=GSoC_2020&title_color=ffffff&text_color=c9cacc&icon_color=FF7F50&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/Xiaoyu-Lu/GSoC_2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaoyu-Lu&repo=GSoC_2020&title_color=ffffff&text_color=c9cacc&icon_color=FF7F50&bg_color=1d1f21" />
 </a>
